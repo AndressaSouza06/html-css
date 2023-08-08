@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar repositórios!
 
- Ola, seiko kisari
+ <a href="https://andressasouza06.github.io/html-css/exercicios/ex001/index.html">Executar o exercicio 001</a>
